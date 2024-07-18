@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(20, 33, 109);
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+textarea {
+  justify-content: center;
+  height: 100px;
+  width: 500px;
+}
+button {
+  justify-content: center;
+  
+}
+h2 {
+  font-size: 25px;
+}

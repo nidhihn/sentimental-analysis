@@ -1,0 +1,54 @@
+/* .amazon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: green;
+} */
+
+body {
+  background-color: lightsalmon;
+}
+
+textarea {
+  width: 70%;
+  padding: 10px;
+  border: 2px solid #ced4da;
+  border-radius: 5px;
+  font-size: 16px;
+  resize: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-left: 3.8rem;
+}
+
+button {
+  background-color: #0093ce;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  justify-content: center;
+  align-items: center;
+  font-weight: 550;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: rgb(187, 230, 247);
+  color: black;
+  font-weight: 550;
+  
+}
+h2 {
+  color: white;
+  padding: 1rem;
+}
+.am {
+  margin-top: 2     rem;
+}
